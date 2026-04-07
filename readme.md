@@ -16,7 +16,7 @@
       <td width="60%">
         <ul>
           <li>💼 Hiện tại đang làm việc với tư cách là <b>Backend Developer (Laravel)</b> tại <b>Hasaki Vietnam</b>.</li>
-          <li>🎓 Tốt nghiệp chuyên ngành <b>Backend Web Programming</b> tại <b>Cao đẳng FPT</b>.</li>
+          <li>🎓 Tốt nghiệp chuyên ngành <b>Backend Web Programming</b> tại <b>Đại Học FPT</b>.</li>
           <li>🌱 Đam mê nghiên cứu sâu về <b>System Architecture, Microservices, Design Patterns</b> và <b>Web Security</b>.</li>
           <li>⚡ Thích xây dựng các hệ thống backend mạnh mẽ, tối ưu hóa hiệu suất và mở rộng các ứng dụng thông minh.</li>
           <li>🎯 Sở thích ngoài lề: <b>Ngủ </b> và nghiên cứu <b>Tâm lý học (Psychology)</b>.</li>
